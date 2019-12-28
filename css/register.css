@@ -1,0 +1,43 @@
+@font-face {
+	font-family: 'Bellota-LightItalic';
+	src: url('../fonts/Bellota-LightItalic.otf');
+}
+@font-face {
+	font-family: 'Bellota-BoldItalic';
+	src: url('../fonts/Bellota-BoldItalic.otf');
+}
+@font-face {
+            font-family: 'fontBRL'; /*a name to be used later*/
+            src: url('../fonts/BRLNSR.TTF'); /*URL to font*/
+        }
+    .font{
+        font-family:myFont;
+        font-size:18px;
+    }
+    
+html, body {
+	height: 100%;
+	min-height: 100%;
+}
+
+form {
+	text-align: center;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #3498db;
+}
+
+#second {
+	display: none;
+}
+
+
+
+
